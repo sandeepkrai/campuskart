@@ -1,0 +1,75 @@
+html{
+  background-color: rgb(37, 32, 32);
+}
+
+.carouselExampleCaptions {
+    height: 100%;
+    width: 500px;
+  }
+  
+  .d-block{
+    height: 500px;
+    width: 500px;
+  }
+
+  .btn{
+    width: 100%;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(59, 161, 187);
+  }
+
+.label{
+  color: rgb(218, 8, 8);
+
+}
+
+
+  .accordion-body{
+    display: block;
+    /* text-align: center; */
+    width: 50%;
+    justify-content: center;
+    box-align: center;
+
+  }
+
+  #form1{
+    background-color: rgb(37, 32, 32);
+    color: rgb(211, 203, 203);
+    margin-left: 25%;
+  }
+
+  #flush-collapseOne{
+    background-color: rgb(37, 32, 32);
+
+  }
+
+  .accordion-button{
+
+    background-color: rgb(37, 32, 32);
+    margin-top: 0px;
+    border-color: rgb(51, 84, 156);
+    margin-top: 100px;
+    
+  }
+
+  .btn-outline-success{
+    color: white;
+  }
+
+  body{
+    background-color:rgb(37, 32, 32) ;
+  }
+
+  #owner{
+    color: white;
+    background-color: rgb(37, 32, 32);
+    margin-left: 20px;
+
+  }
+
+  .form-control{
+    height: 40px;
+    width: 500%;
+  }
